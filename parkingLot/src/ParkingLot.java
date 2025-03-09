@@ -16,7 +16,7 @@ public class ParkingLot {
     }
 
     public void addParkingLevel(ParkingLevels parkingLevel){
-        parkingLevelsList.add(parkingLevel);
+        parkingLevelsList.add( );
     }
 
     public boolean parkVehichle(Vehicle vehicle){
